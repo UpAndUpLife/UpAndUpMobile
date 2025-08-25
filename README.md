@@ -5,7 +5,8 @@
 Before installing the app, please make sure your device meets the following requirements:
 
 - **Operating System**: Android 12 (API level 31) or higher  
-- **RAM**: At least 4 GB  
+- **RAM**: At least 4 GB
+- Processor: ARM64-v8a or armeabi-v7a (x86 not supported)  
 - **Storage**: 300 MB of free space required  
 
 ⚠️ The app may not run properly on devices that do not meet these requirements.
