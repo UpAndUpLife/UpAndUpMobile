@@ -22,8 +22,6 @@ When reporting an issue, please use the following format to help us debug faster
 - Android Version: (e.g., Android 13)  
 - Network: (Wi-Fi, 4G, 5G, Offline)  
 
----
-
 ### 2. Steps to Reproduce  
 (Write clearly so the issue can be repeated every time)  
 
@@ -33,13 +31,9 @@ When reporting an issue, please use the following format to help us debug faster
 3. Click Start Task  
 4. App crashes  
 
----
-
 ### 3. Expected vs Actual Behavior  
 - Expected: (What you thought should happen)  
 - Actual: (What actually happened – crash, freeze, wrong data, UI glitch, etc.)  
-
----
 
 ### 4. Screenshots / Screen Recording  
 - Attach screenshots or a screen recording (if possible).  
